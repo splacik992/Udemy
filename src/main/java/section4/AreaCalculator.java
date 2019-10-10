@@ -15,10 +15,4 @@ public class AreaCalculator {
     }
 
 
-    public static void main(String[] args) {
-
-        System.out.println(area(5.0) + " - is circle area");
-        System.out.println(area(5.0,4.0) + " - is rectangle area");
-
-    }
 }

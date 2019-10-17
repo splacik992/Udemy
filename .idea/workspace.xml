@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdcbf4f-ad32-43e5-9bdd-36b62729ad7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section4/EqualityPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section4/MinutesToYearsCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section4/PlayingCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/DayOfTheWeekChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/NumberOfDaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/Sum3And5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/SumOddRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/AllFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/DigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/FirstAndLastDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/PerfectNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section4/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section4/AreaCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section4/AreaCalculator.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +61,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOddRange">
-    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.DayOfTheWeekChallenge" />
+  <component name="RunManager" selected="Application.PerfectNumber">
+    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.AllFactors" />
       <module name="UdemyCourse2" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.NumberInWord" />
+    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.DigitSum" />
       <module name="UdemyCourse2" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.NumberOfDaysInMonth" />
+    <configuration name="FirstAndLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.FirstAndLastDigitSum" />
       <module name="UdemyCourse2" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.Sum3And5" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.PalindromeNumber" />
       <module name="UdemyCourse2" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOddRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.SumOddRange" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section5.PerfectNumber" />
       <module name="UdemyCourse2" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOddRange" />
-        <item itemvalue="Application.Sum3And5" />
-        <item itemvalue="Application.NumberOfDaysInMonth" />
-        <item itemvalue="Application.NumberInWord" />
-        <item itemvalue="Application.DayOfTheWeekChallenge" />
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.AllFactors" />
+        <item itemvalue="Application.FirstAndLastDigitSum" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.DigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +151,7 @@
       <workItem from="1570445705765" duration="41000" />
       <workItem from="1570448369118" duration="5337000" />
       <workItem from="1570525980372" duration="11707000" />
-      <workItem from="1570716416047" duration="1182000" />
+      <workItem from="1570716416047" duration="7980000" />
     </task>
     <servers />
   </component>

@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdcbf4f-ad32-43e5-9bdd-36b62729ad7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/AllFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/DigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/FirstAndLastDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/Array102Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/ArrayDescendingValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/Reverse103Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section5/AllFactors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section5/DigitSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section5/EvenNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section5/FirstAndLastDigitSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section5/PalindromeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/AllFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/AllFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/DigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/FirstAndLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/FirstAndLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section5/Sum3And5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/Sum3And5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/UdemyCourse2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/Sum3And5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section5/Sum3And5.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +66,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -61,13 +83,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PerfectNumber">
-    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.AllFactors" />
-      <module name="UdemyCourse2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Array102Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Array102Challenge" />
+      <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.mobilePhone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.DigitSum" />
-      <module name="UdemyCourse2" />
+    <configuration name="ArrayDescendingValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.ArrayDescendingValues" />
+      <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.mobilePhone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.FirstAndLastDigitSum" />
-      <module name="UdemyCourse2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.mobilePhone.secondSolution.Main" />
+      <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.mobilePhone.secondSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.PalindromeNumber" />
-      <module name="UdemyCourse2" />
+    <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.mobilePhone.MobilePhone" />
+      <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.mobilePhone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.PerfectNumber" />
-      <module name="UdemyCourse2" />
+    <configuration name="Reverse103Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Reverse103Challenge" />
+      <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.mobilePhone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.AllFactors" />
-        <item itemvalue="Application.FirstAndLastDigitSum" />
-        <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.DigitSum" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MobilePhone" />
+        <item itemvalue="Application.Reverse103Challenge" />
+        <item itemvalue="Application.Array102Challenge" />
+        <item itemvalue="Application.ArrayDescendingValues" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +173,7 @@
       <workItem from="1570445705765" duration="41000" />
       <workItem from="1570448369118" duration="5337000" />
       <workItem from="1570525980372" duration="11707000" />
-      <workItem from="1570716416047" duration="7980000" />
+      <workItem from="1570716416047" duration="9449000" />
     </task>
     <servers />
   </component>

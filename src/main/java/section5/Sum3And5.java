@@ -13,10 +13,6 @@ public class Sum3And5 {
             }
         }
     }
-
-    public static void main(String[] args) {
-        sum3and5();
-    }
 }
 
 

@@ -2,32 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdcbf4f-ad32-43e5-9bdd-36b62729ad7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/Array102Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/ArrayDescendingValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/Reverse103Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/Contacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section5/AllFactors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section5/DigitSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section5/EvenNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section5/FirstAndLastDigitSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section5/PalindromeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fun/gym/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fun/gym/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fun/gym/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Branches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Kolekcje/Kolekcj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/AllFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/AllFactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/DigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/FirstAndLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/FirstAndLastDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/Sum3And5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/Sum3And5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/UdemyCourse2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/Sum3And5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section5/Sum3And5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/secondSolution/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section8/mobilePhone/secondSolution/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section8/mobilePhone/secondSolution/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section8/mobilePhone/secondSolution/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section8/mobilePhone/secondSolution/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section8/mobilePhone/secondSolution/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section8/mobilePhone/secondSolution/MobilePhone.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Kolekcj">
     <configuration name="Array102Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section8.Array102Challenge" />
       <module name="UdemyCourse" />
@@ -97,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDescendingValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.ArrayDescendingValues" />
+    <configuration name="Kolekcj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.autoboxing112unboxing.Kolekcje.Kolekcj" />
       <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section8.mobilePhone.*" />
+          <option name="PATTERN" value="section8.autoboxing112unboxing.Kolekcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kolekcj" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MobilePhone" />
         <item itemvalue="Application.Reverse103Challenge" />
         <item itemvalue="Application.Array102Challenge" />
-        <item itemvalue="Application.ArrayDescendingValues" />
       </list>
     </recent_temporary>
   </component>

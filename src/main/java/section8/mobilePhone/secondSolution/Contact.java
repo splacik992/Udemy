@@ -3,9 +3,9 @@ package section8.mobilePhone.secondSolution;
 public class Contact {
 
     String name;
-    int number;
+    String number;
 
-    public Contact(String name, int number) {
+    public Contact(String name, String number) {
         this.name = name;
         this.number = number;
     }
@@ -14,11 +14,11 @@ public class Contact {
         return name;
     }
 
-    public int getNumber() {
+    public String getNumber() {
         return number;
     }
 
-    public static Contact addContact(String name, int number){
+    public static Contact addContact(String name, String number){
         return new Contact(name,number);
     }
 }

@@ -23,7 +23,7 @@ public class Main {
                     printMenu();
                     break;
                 case 3:
-                    updateContact()g;
+                    updateContact();
                     printMenu();
                     break;
                 case 4:
@@ -58,8 +58,7 @@ public class Main {
         System.out.println("Enter name:");
         String name = scanner.nextLine();
         System.out.println("Enter number:");
-        int phoneNumber = scanner.nextInt();
-        scanner.nextLine();
+        String phoneNumber = scanner.nextLine();
         Contact newContact = Contact.addContact(name, phoneNumber);
         if (mobilePhone.addNewContact(newContact)) {
             System.out.println("New contact added: name = " + name + ", phone = " + phoneNumber);
@@ -79,7 +78,7 @@ public class Main {
         System.out.println("Enter new contact name:");
         String newName = scanner.nextLine();
         System.out.println("Enter new contact number:");
-        int newNumber = scanner.nextInt();
+        String newNumber = scanner.nextLine();
         Contact newContact = Contact.addContact(newName,newNumber);
         if(mobilePhone.updateContact(oldContact,newContact)){
             System.out.println("Succesfully updated!");
@@ -102,6 +101,4 @@ public class Main {
                 "0 - quit\n");
         System.out.println("Select your choice: ");
     }
-
-
 }

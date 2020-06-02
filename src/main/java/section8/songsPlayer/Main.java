@@ -11,10 +11,27 @@ public class Main {
         boolean quit = false;
 
         int menu = scanner.nextInt();
-        while (!quit){
-            switch (menu){
+        while (!quit) {
+            System.out.println("your choice :");
+            int choice = scanner.nextInt();
+            scanner.nextLine();
+            switch (menu) {
 
-
+//                case 1:
+//                    showSongList();
+//                    break;
+//                case 2:
+//                    skipToNext();
+//                    break;
+//                case 3:
+//                    skipBack();
+//                case 4:
+//                    replay();
+//                    break;
+//                case 5:
+//                    addNewSong();
+//                    break;
+//
                 case 0:
                     System.out.println("You just turned off app!");
                     quit = true;
@@ -23,7 +40,7 @@ public class Main {
         }
     }
 
-    public static void showMenu(){
+    public static void showMenu() {
         System.out.println("MENU\n" +
                 "1 - show list of songs\n" +
                 "2 - skip forward to the next song\n" +

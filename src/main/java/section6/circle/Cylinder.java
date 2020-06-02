@@ -1,11 +1,11 @@
 package section6.circle;
 
-public class Cylnder extends Circle {
+public class Cylinder extends Circle {
 
     private double height;
 
 
-    public Cylnder(double radius, double height) {
+    public Cylinder(double radius, double height) {
         super(radius);
         if (height < 0) {
             this.height = 0;
@@ -16,6 +16,7 @@ public class Cylnder extends Circle {
     public double getHeight() {
         return height;
     }
+
 
     public double getVolume(){
         return height*getArea();

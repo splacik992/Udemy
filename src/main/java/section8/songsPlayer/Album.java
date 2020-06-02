@@ -7,6 +7,7 @@ public class Album {
 
     private String name;
     private String artist;
+
     private ArrayList<Song> songs;
 
     public Album(String name, String artist) {
@@ -24,35 +25,14 @@ public class Album {
     }
 
     private Song findSong(String title) {
-        for (Song checkedSong : this.songs) {
-            if (checkedSong.getSongName().equals(title)) {
-                return checkedSong;
+        for (Song checkSong : this.songs) {
+            if (checkSong.getTitle().equals(title)) {
+                return checkSong;
             }
         }
         return null;
     }
-
-    private boolean addToPlayList(int position, LinkedList<Song> playList){
-        int index = position -1;
-        if(index>0 && index <= playList.size()){
-            playList.add(this.songs.get(index));
-            return true;
-        }
-        System.out.println("This album does not have track: " + position);
-        return false;
-    }
-
-    private boolean addToPlayList(String title, LinkedList<Song> playList){
-        Song checkedSong = findSong(title);
-        if(checkedSong != null){
-            playList.add(checkedSong);
-            return true;
-        }
-        System.out.println("Song " + title + " is not in this album");
-        return false;
-    }
 }
-
 
 //    	    // Create a program that implements a playlist for songs
 //        // Create a Song class having Title and Duration for a song.

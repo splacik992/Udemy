@@ -51,7 +51,7 @@ public class MobilePhone {
         System.out.println("Enter name of contact :");
         String searchContact = scanner.nextLine();
         if(contacts.fintContact(searchContact) !=null){
-            System.out.println("Fount " + searchContact + " in the contact list!");
+            System.out.println("Found " + searchContact + " in the contact list!");
         }else {
             System.out.println(searchContact + " is not in the list!");
         }

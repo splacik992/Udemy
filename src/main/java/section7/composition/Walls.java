@@ -1,4 +1,4 @@
-package section6.composition;
+package section7.composition;
 
 public class Walls {
 

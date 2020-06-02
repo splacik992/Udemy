@@ -1,6 +1,4 @@
-package section6.composition;
-
-import section6.wallArea.Wall;
+package section7.composition;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package section6.printer;
+package section7.printer;
 
 public class Main {
 

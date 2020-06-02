@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdcbf4f-ad32-43e5-9bdd-36b62729ad7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fun/Kontakty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fun/Lambda/KalkulatorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fun/Lambda/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fun/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fun/abstrakcje/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fun/liczbyLosowe/LiczbyLosowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section10/Generics/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section10/Generics/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/BillsBurgerMasterChallenge/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/songsplayer2/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/songsplayer2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/songsplayer2/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section9/abstractclasses/challenge/ListItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section9/abstractclasses/challenge/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section9/abstractclasses/challenge/NodeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section9/interfacechallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section9/interfacechallenge/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section9/interfacechallenge/Saveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/ComplexNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/SumCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/bankAccount/BankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/bankAccount/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/bankAccount/VipCustomer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/carpetCostCalculator/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/carpetCostCalculator/Carpet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/carpetCostCalculator/Floor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/circle/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/circle/Cylinder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/circle/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/poolArea/Cuboid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/poolArea/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/poolArea/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/wallArea/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section6/wallArea/Wall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/BillsBurgerMasterChallenge/Hamburger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/BillsBurgerMasterChallenge/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/composition/Bed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/composition/Bedroom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/composition/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/composition/Desk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/composition/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/composition/Walls.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/printer/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section7/printer/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section8/songsPlayer/Album.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section8/songsPlayer/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/section8/songsPlayer/Song.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/ComplexNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/SumCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/SumCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/bankAccount/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/bankAccount/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/bankAccount/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/bankAccount/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/bankAccount/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/bankAccount/VipCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/carpetCostCalculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/carpetCostCalculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/carpetCostCalculator/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/carpetCostCalculator/Carpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/carpetCostCalculator/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/carpetCostCalculator/Floor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/circle/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/circle/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/circle/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/circle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/circle/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/poolArea/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/poolArea/Cuboid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/poolArea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/poolArea/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/poolArea/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/poolArea/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/wallArea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/wallArea/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section6/wallArea/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section6/wallArea/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/BillsBurgerMasterChallenge/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/BillsBurgerMasterChallenge/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/BillsBurgerMasterChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/BillsBurgerMasterChallenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/composition/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Bed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/composition/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/composition/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/composition/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Desk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/composition/Walls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Walls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/printer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/printer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section7/printer/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section7/printer/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Branches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/autoboxing112unboxing/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/mobilePhone/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section8/songsPlayer/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/UdemyCourse.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section8/autoboxing112unboxing/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section8/autoboxing112unboxing/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section8/autoboxing112unboxing/Branches.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section8/autoboxing112unboxing/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section8/autoboxing112unboxing/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section8/mobilePhone/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section8/mobilePhone/MobilePhone.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ReHZvAvBGFj6uj77HVjvNfekMm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -135,6 +50,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="section10.Generics.challenge" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pali\IdeaProjects\UdemyCourse2\src\main\java\section9\abstractclasses\challenge" />
     </key>
@@ -151,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section8.autoboxing112unboxing.Main" />
       <module name="UdemyCourse" />
@@ -191,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section10.Generics.challenge.Main" />
+      <module name="UdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section10.Generics.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section8.mobilePhone.MobilePhone" />
       <module name="UdemyCourse" />
@@ -204,26 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section10.Generics.main" />
-      <module name="UdemyCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section10.Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MobilePhone" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>

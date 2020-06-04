@@ -2,6 +2,8 @@ package section10.Generics.challenge;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 public class League<A extends Team> {
 
@@ -28,9 +30,10 @@ public class League<A extends Team> {
     }
 
     public void showLeagueTeams(League<A> league){
+
         for (A tea: league.teams
              ) {
-            System.out.println(league.getName() +" members : " + Arrays.asList(tea.getName()));
+            System.out.println(league.getName() +" members : " + Arrays.asList(tea.getName()) + tea.ranking());
         }
     }
 

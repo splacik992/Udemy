@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bbdcbf4f-ad32-43e5-9bdd-36b62729ad7c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section10/Generics/challenge/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section10/Generics/challenge/League.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section10/Generics/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section10/Generics/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section10/Generics/challenge/League.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section10/Generics/challenge/League.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section10/Generics/challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section10/Generics/challenge/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,13 +73,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.autoboxing112unboxing.Main" />
+      <option name="MAIN_CLASS_NAME" value="sedction11.adventureGame.Main" />
       <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section8.autoboxing112unboxing.*" />
+          <option name="PATTERN" value="sedction11.adventureGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section9.interfacechallenge.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sedction11.Scope.Main" />
       <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section9.interfacechallenge.*" />
+          <option name="PATTERN" value="sedction11.Scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sedction11.example.Main" />
+      <module name="UdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sedction11.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sedction11.theatreexample.Main" />
+      <module name="UdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sedction11.theatreexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.mobilePhone.MobilePhone" />
-      <module name="UdemyCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section8.mobilePhone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.MobilePhone" />
       </list>
     </recent_temporary>
   </component>
